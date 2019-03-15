@@ -28,3 +28,18 @@ Cuando el servidor debe incluir una entidad que contiene una explicacion del err
 400 Bad Request, 401 Unauthorized, 402  Payment Required, 403 Forbidden, 404 Not Found, 405 Method Not Allowed, 406 Not Acceptable, 407 Proxy Authentication Required, 408 Request Timeout, 409 Conflict, 410 Gone, 411 Length Required, 412 Precondition Failed, 413 Request Entity Too Large, 414 Request-URI Too Long, 415 Unsupported Media Type, 416 Requested Range Not Satisfiable(RFC 7233), 417 Expectation Failed, 418 I'm a teapot(RFC 2324).
 5. 5xx Errores del servidor 
 Cuando el servidor falla al completar una solicitud aparentemente válida. 500 Internal Server Error, 501 Not Implemented, 502 Bad Gateway, 503 Service Unavailable, 504 Gateway Timeout, 505 HTTP Version Not Supported, 511 Network Authentication Required(RFC 6585).
+
+# Metodologia de desarrollo de Software (SCRUM)
+Es un proceso en el que se aplican de manera regular un cnonjunto de buenas practicas para trabajar colaborativamente en equipo. En SCRUM un proyecto se ejecuta en ciclos temporales cortos de duracion fija (iteraciones de 2, 3 o 4 semanas). Cada iteración debe proporcionar un resultado completo. El proceso parte de la lista de objetivos o plan de proyecto. En esta el cliente prioriza los objetivos y quedan repartidos en iteraciones y entregas.
+* Planificacion de la iteracion.
+1. Seleccion de requisitos
+2. Planificacion de la iteracion.
+* Ejecucion de la iteracion
+Se responden: 
+1. ¿Qué eh hecho de la ultima reunion para ayudar al cumplimiento del objetivo?
+2. ¿Qué voy a hacer a partir de este momento para ayudar al cumplimiento del objetivo?
+3. ¿Cuales son los impedimentos para cumplir el objetivo?
+Un facilitador elimina los obstaculos que el equipo no pueda resolver, protege al equipo de interrupciones externas.
+* Inpección y adaptación
+1. Revisión 
+2. Retrospectiva
